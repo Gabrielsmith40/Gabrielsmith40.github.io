@@ -1,0 +1,23 @@
+{
+  "name": "gabrielsmith40.github.io",
+  "version": "1.0.0",
+  "description": "Simple gulp website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielsmith40/Gabrielsmith40.github.io.git"
+  },
+  "author": "Gabriel Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabrielsmith40/Gabrielsmith40.github.io/issues"
+  },
+  "homepage": "https://github.com/Gabrielsmith40/Gabrielsmith40.github.io#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1"
+  }
+}
